@@ -21,3 +21,7 @@ func Hello_01() {
 func Hello_02() {
 	fmt.Println("hello  world!")
 }
+
+func Hello_03() {
+	fmt.Println("hello  world!")
+}
