@@ -17,15 +17,3 @@ func Hello() {
 func Hello_01() {
 	fmt.Println("hello  world!")
 }
-
-func Hello_02() {
-	fmt.Println("hello  world!")
-}
-
-func Hello_03() {
-	fmt.Println("hello  world!")
-}
-
-func Hello_04() {
-	fmt.Println("hello  world!")
-}
