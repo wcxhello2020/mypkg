@@ -13,3 +13,7 @@ func Sub(a, b int) int {
 func Hello() {
 	fmt.Println("hello  world!")
 }
+
+func Hello_01() {
+	fmt.Println("hello  world!")
+}
